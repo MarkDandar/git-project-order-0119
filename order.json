@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "pizza": "Hawaii",
+        "extra": "Kukorica",
+        "ital": "Pepsi zero",
+        "ar": 1500
+    },
+    {
+        "id": 2,
+        "pizza": "Corleone",
+        "extra": "Jalapeno",
+        "ital": "Sprite",
+        "ar": 2100
+    },
+    {
+        "id": 3,
+        "pizza": "Son-Go-Ku",
+        "extra": "Pepperoni",
+        "ital": "Fanta",
+        "ar": 1900
+    },
+    {
+        "id": 4,
+        "pizza": "Magyaros",
+        "extra": "Gomba",
+        "ital": "Szentkirályi mentes",
+        "ar": 1850
+    },
+    {
+        "id": 5,
+        "pizza": "Bolognese",
+        "extra": "Füstölt sajt",
+        "ital": "Pepsi zero",
+        "ar": 1500
+    },
+    {
+        "id": 6,
+        "pizza": "Diavole",
+        "extra": "Feketeerdei sonka",
+        "ital": "Pepsi citrom",
+        "ar": 2250
+    }
+]

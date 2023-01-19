@@ -1,0 +1,30 @@
+body{
+    background: linear-gradient(to right, blue, purple);
+    color: black;
+    display: flex;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.order{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 30px;
+    margin-top: 50px;
+}
+
+.pizza{
+
+    box-shadow: 0 2px 6px rgb(112, 112, 252);
+    padding: 10px;
+    border-radius: 8px;
+}
